@@ -1,0 +1,52 @@
+{
+  "servers": [
+    {
+      "id": "de-fra",
+      "country": "Германия",
+      "city": "Франкфурт",
+      "flag": "🇩🇪",
+      "endpoint": "de-fra.wg.vegaroute.net:51820",
+      "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "client_ipv4": "10.66.66.2/32",
+      "client_ipv6": "fd42:42:42::2/128",
+      "dns": "1.1.1.1, 8.8.8.8",
+      "allowed_ips": "0.0.0.0/0, ::/0"
+    },
+    {
+      "id": "nl-ams",
+      "country": "Нидерланды",
+      "city": "Амстердам",
+      "flag": "🇳🇱",
+      "endpoint": "nl-ams.wg.vegaroute.net:51820",
+      "public_key": "xK8r2dF+1G5h0L9kJ2vN4bP6qR8tU0wY1aC3eE5gH7k=",
+      "client_ipv4": "10.66.67.2/32",
+      "client_ipv6": "fd42:42:43::2/128",
+      "dns": "1.1.1.1, 8.8.8.8",
+      "allowed_ips": "0.0.0.0/0, ::/0"
+    },
+    {
+      "id": "us-nyc",
+      "country": "США",
+      "city": "Нью-Йорк",
+      "flag": "🇺🇸",
+      "endpoint": "us-nyc.wg.vegaroute.net:51820",
+      "public_key": "yM9s3eG+2H6i1M0lK3wO5cQ7rS9uV1xZ2bD4fF6hI8l=",
+      "client_ipv4": "10.66.68.2/32",
+      "client_ipv6": "fd42:42:44::2/128",
+      "dns": "1.1.1.1, 8.8.8.8",
+      "allowed_ips": "0.0.0.0/0, ::/0"
+    },
+    {
+      "id": "fi-hel",
+      "country": "Финляндия",
+      "city": "Хельсинки",
+      "flag": "🇫🇮",
+      "endpoint": "fi-hel.wg.vegaroute.net:51820",
+      "public_key": "zN0t4fH+3I7j2N1mL4xP6dR8sT0vW2yA3cE5gG7iJ9m=",
+      "client_ipv4": "10.66.69.2/32",
+      "client_ipv6": "fd42:42:45::2/128",
+      "dns": "1.1.1.1, 8.8.8.8",
+      "allowed_ips": "0.0.0.0/0, ::/0"
+    }
+  ]
+}
