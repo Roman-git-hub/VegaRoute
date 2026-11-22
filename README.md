@@ -1,24 +1,29 @@
+
 <details>
-<summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
+<summary><strong>📸 VIEW SCREENSHOTS (6) — CLICK TO OPEN</strong></summary>
 
 <h3>🌐 Vega Route — Android Screenshots</h3>
 
 <p><strong>🏠 Main Screen</strong></p>
 <p><img src="docs/screenshots/main.jpg" width="350" alt="Vega Route Main Screen"></p>
 
-<p><strong>🔐 VPN Connection</strong></p>
-<p><img src="docs/screenshots/vpn.jpg" width="350" alt="Vega Route VPN Connection"></p>
-
-<p><strong>🌍 Country Selection</strong></p>
-<p><img src="docs/screenshots/countries.jpg" width="350" alt="Vega Route Country Selection"></p>
-
-<p><strong>🗺️ Interactive Map</strong></p>
-<p><img src="docs/screenshots/map.jpg" width="350" alt="Vega Route Interactive Map"></p>
+<p><strong>🗺️ IP Geolocation Map</strong></p>
+<p><img src="docs/screenshots/location-map.jpg" width="350" alt="Vega Route IP Geolocation Map"></p>
 
 <p><strong>📡 Network Information</strong></p>
-<p><img src="docs/screenshots/network.jpg" width="350" alt="Vega Route Network Information"></p>
+<p><img src="docs/screenshots/network-info.jpg" width="350" alt="Vega Route Network Information"></p>
+
+<p><strong>🛡️ Mullvad VPN</strong></p>
+<p><img src="docs/screenshots/mullvad-vpn.jpg" width="350" alt="Vega Route Mullvad VPN"></p>
+
+<p><strong>📂 WireGuard Configuration Import</strong></p>
+<p><img src="docs/screenshots/wireguard-import.jpg" width="350" alt="Vega Route WireGuard Configuration Import"></p>
+
+<p><strong>🌍 Country Selection</strong></p>
+<p><img src="docs/screenshots/country-selection.jpg" width="350" alt="Vega Route Country Selection"></p>
 
 </details>
+
 
 # 🌐 Vega Route
 
