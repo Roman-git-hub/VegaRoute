@@ -1,3 +1,25 @@
+<details>
+<summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
+
+<h3>🌐 Vega Route — Android Screenshots</h3>
+
+<p><strong>🏠 Main Screen</strong></p>
+<p><img src="docs/screenshots/main.jpg" width="350" alt="Vega Route Main Screen"></p>
+
+<p><strong>🔐 VPN Connection</strong></p>
+<p><img src="docs/screenshots/vpn.jpg" width="350" alt="Vega Route VPN Connection"></p>
+
+<p><strong>🌍 Country Selection</strong></p>
+<p><img src="docs/screenshots/countries.jpg" width="350" alt="Vega Route Country Selection"></p>
+
+<p><strong>🗺️ Interactive Map</strong></p>
+<p><img src="docs/screenshots/map.jpg" width="350" alt="Vega Route Interactive Map"></p>
+
+<p><strong>📡 Network Information</strong></p>
+<p><img src="docs/screenshots/network.jpg" width="350" alt="Vega Route Network Information"></p>
+
+</details>
+
 # 🌐 Vega Route
 
 ### Secure VPN • Private Connection • Interactive Maps
