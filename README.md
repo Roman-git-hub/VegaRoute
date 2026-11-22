@@ -61,12 +61,6 @@ VPN server selection can change the public IP address and the geographic locatio
 
 ---
 
-## 📸 Screenshots
-
-Application screenshots are available in the project documentation.
-
----
-
 ## 📦 Installation
 
 1. Open the [Releases](https://github.com/Roman-git-hub/VegaRoute/releases) page.
