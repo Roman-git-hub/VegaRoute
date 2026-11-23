@@ -112,7 +112,15 @@ Official application updates are distributed through GitHub Releases.
 
 ## 📄 License
 
-Copyright © Vega Route. All rights reserved.
+Vega Route is distributed as freeware under a proprietary license.
+
+You may download, install, and use official releases free of charge.
+
+Copyright © 2026 Roman-git-hub. All rights reserved.
+
+See [LICENSE](LICENSE) for full terms.
+
+Third-party components remain subject to their respective licenses.
 
 ---
 
