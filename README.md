@@ -70,7 +70,7 @@ Protect your connection, switch between available VPN locations, and explore you
 - Integrated map navigation.
 - Clear network and location information.
 
-- ### 🌍 Automatic Language Detection & Localization
+### 🌍 Automatic Language Detection & Localization
 
 - Automatically detects the device's system language.
 - Adapts the application interface to the detected language when a corresponding localization is available.
