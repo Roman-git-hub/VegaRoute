@@ -1,4 +1,3 @@
-
 <details>
 <summary><strong>📸 VIEW SCREENSHOTS (6) — CLICK TO OPEN</strong></summary>
 
@@ -23,7 +22,6 @@
 <p><img src="docs/screenshots/country-selection.jpg" width="350" alt="Vega Route Country Selection"></p>
 
 </details>
-
 
 # 🌐 Vega Route
 
